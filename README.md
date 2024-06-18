@@ -1,2 +1,2 @@
 # Api-demo
-This is my first Git repository
+My first Git repository. Author - Tejaswini P U
